@@ -40,11 +40,11 @@ Here are the MySQL instructions to create your tables:
 
 -Exit MySQL by entering quit;.
 
-Run node server.js or npm start in your terminal to launch the application.
+Run node index.js or npm start in your terminal to launch the application.
 
 ## Usage:
 
-This application will allow users to view, add, and edit employees, roles, departments, and managers. You can find the Demo video here: 
+This application will allow users to view, add, and edit employees, roles, departments, and managers. You can find the Demo video here: https://drive.google.com/file/d/1beMJX3YQoFkcD7ln3UU1QFK_KT_6D9qm/view
 
 ## License:
 
